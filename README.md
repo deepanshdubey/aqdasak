@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**aqdasak/aqdasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin badge](https://img.shields.io/badge/aqdasak-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/aqdasak)
+[![twitter badge](https://img.shields.io/badge/@aqdasak-30302f?style=flat&logo=twitter)](https://twitter.com/aqdasak)
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
