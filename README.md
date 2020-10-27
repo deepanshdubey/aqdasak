@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aqdas</h1><h3 align="center">A passionate programmer from India</h3><p  align="left"> <a href="https://twitter.com/aqdasak"  target="blank"><img  src="https://img.shields.io/twitter/follow/aqdasak?logo=twitter&style=for-the-badge"  alt="aqdasak" /></a> </p>
-- 🌱 I’m currently learning **SQL** 
+<h1 align="center">Hi 👋, I'm Aqdas</h1><h3 align="center">A passionate programmer from India</h3><p  align="left">
 
+<!--
+<a href="https://twitter.com/aqdasak"  target="blank"><img  src="https://img.shields.io/twitter/follow/aqdasak?logo=twitter&style=for-the-badge"  alt="aqdasak" /></a> </p>
+-->
+
+- 🌱 I’m currently learning **SQL** 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-aqdasak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aqdasak@gmail.com)](mailto:aqdasak@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-aqdasak-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aqdasak/)](https://www.linkedin.com/in/aqdasak/) [![Github Badge](https://img.shields.io/badge/-aqdasak-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aqdasak/)](https://www.github.com/aqdasak/) [![Twitter Badge](https://img.shields.io/badge/-aqdasak-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/aqdasak/)](https://www.twitter.com/aqdasak/) 
 
   <!--
